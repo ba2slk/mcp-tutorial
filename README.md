@@ -3,7 +3,7 @@ This tutorial is based on the official documentation from [Model Context Protoco
 
 ## Install Dependencies
 ```
-$ uv add  mcp anthropic python-dotenv httpx
+$ uv add mcp anthropic python-dotenv httpx
 ```
 
 ## Run MCP-Client
